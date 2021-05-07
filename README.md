@@ -6,7 +6,7 @@
     ├── src                     # Source files
     ├── tests                   # Automated tests
     ├── cmake                   # cmake scripts
-    ├── CMakeLists.txt			# main build config
+    ├── CMakeLists.txt          # main build config
     ├── LICENSE
     └── README.md
 
