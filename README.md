@@ -1,9 +1,5 @@
 # CMake C++ Project with Catch2 testing
 
-## Build System: CMake
-
-## Testing: Catch2
-
 ## Directory Layout
     .
     ├── lib                     # Dependencies
