@@ -13,7 +13,7 @@
 
 ## Requirements:
 - cmake
-- gcc / clang / msvc (A C++ compiler)
+- gcc / clang / msvc
 
 
 ## Usage
